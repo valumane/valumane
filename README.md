@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @valumane
-- 👀 I’m a french student on university
-- 🌱 I'm currently learning html,java script, and ocaml
-- 📫 to contact me you can send me a mail at llucraft.v86@gmail.com or you can contact me on discord valuman_#1259
+- 👀 I’m a french student in cs degree
+- 🌱 I'm currently learning i got a base in html/css/js; c; ocaml : I plan to increase my knowledge, and expand my learning to haskell and kotlin
+- 📫 to contact me you can send me a dm on discord valuman_
 
 <!---
 valumane/valumane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
