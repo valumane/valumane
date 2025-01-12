@@ -1,6 +1,6 @@
 - name : "Lucas"
 - studying : Bachelor's Degree in Computer Science from the University of Poitiers 
-- language know : html, css, JavaScript, c, ocaml
+- language know : html, css, JavaScript, c, ocaml, python
 - plan to learn : kotlin, haskell, assembly, java, rust
 - contact : discord - valuman_
 - use IDE : emacs, vscode, webstorm
