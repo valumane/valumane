@@ -1,9 +1,9 @@
 - name : "Lucas"
 - studying : Bachelor's Degree in Computer Science from the University of Poitiers 
-- language know : html, css, JavaScript, c, ocaml, python
+- language know : html, css, JavaScript, c, ocaml, python, lex, yacc
 - plan to learn : kotlin, haskell, assembly, java, rust, cobol
 - contact : discord - valuman_
-- use IDE : emacs, vscode, webstorm
+- use IDE : emacs, vscode, webstorm, notepad.exe
 - personality : Success is going from failure to failure without losing your enthusiasm -winston churchill
 <!---
 valumane/valumane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
