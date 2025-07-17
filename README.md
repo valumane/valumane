@@ -1,15 +1,10 @@
 👋 Hi, I'm Lucas  
 🎓 **Bachelor's student in Computer Science** : University of Poitiers, France
 
-### 💻 **Languages I know :**
-- HTML, CSS, JavaScript  
-- C, OCaml, Python  
-- Lex, Yacc
-
-### 🚀 **Currently learning :**
-- Kotlin, Haskell, Assembly  
-- Java, Rust, COBOL  
-- PostgreSQL, Symfony, Vue.js, Node.js
+### 💻 **Languages I know :**          ### 🚀 **Currently learning :**
+- HTML, CSS, JavaScript                 - Kotlin, Haskell, Assembly  
+- C, OCaml, Python                      - Java, Rust, COBOL  
+- Lex, Yacc                             - PostgreSQL, Symfony, Vue.js, Node.js
 
 ### 🧰 **Tools I use :**
 - IDEs: Emacs, VSCode, WebStorm, Notepad.exe  
