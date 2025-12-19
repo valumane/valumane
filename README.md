@@ -16,4 +16,4 @@ Hi, I'm Lucas
 ### **Contact**  
 - Discord: valuman_
 
-> *"Success is going from failure to failure without losing your enthusiasm."* - Winston Churchill
+> *"Your were magnificient Satoru Gojo, i shall never forget you, for as long has i live"* - Ryomen Sukuna
