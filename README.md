@@ -5,7 +5,7 @@ Hi, I'm Lucas
 - HTML, CSS, JavaScript                            •   Kotlin, Assembly  
 - C, OCaml, java, c++                                    •   Rust, COBOL  
 - Lex, Yacc                                            
-- PHP-Sypfony, Vue.js, Node.js
+- PHP-Symfony, Vue.js, Node.js
 
 ### **Tools I use :**
 - Editor: Emacs, VSCode, Notepad.exe  
