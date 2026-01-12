@@ -3,7 +3,7 @@ Hi, I'm Lucas
 
 ### **Languages I know :**                **plan to learn :**
 - HTML, CSS, JavaScript                            •   Kotlin  
-- C, OCaml, java, c++                              •   Rust, COBOL  
+- C, OCaml, java, c++                                    •   Rust, COBOL  
 - Lex, Yacc                                            
 - PHP-Symfony, Vue.js, Node.js
 
