@@ -8,7 +8,7 @@ Hi, I'm Lucas
 - PHP-Symfony, Vue.js, Node.js
 
 ### **Tools I use :**
-- Editor: Emacs, VSCode, Notepad.exe  
+- Editor: Emacs, VSCode, Notepad.exe, PHPstorm
 - OS: Dual boot — Windows 11 / Linux Mint 22.1  
 - Machine: [Lenovo Ideapad 3](https://www.lenovo.com/fr/fr/p/laptops/ideapad/ideapad-300/ideapad-3-15are05/88ips301432)  
   (Ryzen 3 3250U, Radeon Graphics, 12GB RAM [modded], 512GB SSD [modded])
