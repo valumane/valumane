@@ -2,8 +2,8 @@ Hi, I'm Lucas
 **Bachelor's student in Computer Science** : University of Poitiers, France
 
 ### **Languages I know :**                **plan to learn :**
-- HTML, CSS, JavaScript                            •   Kotlin, Assembly  
-- C, OCaml, java, c++                                    •   Rust, COBOL  
+- HTML, CSS, JavaScript                            •   Kotlin  
+- C, OCaml, java, c++                              •   Rust, COBOL  
 - Lex, Yacc                                            
 - PHP-Symfony, Vue.js, Node.js
 
