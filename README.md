@@ -12,7 +12,7 @@ Hi, I'm Lucas
 - OS: Dual boot — Windows 11 / Linux Mint 22.1  
 - Machine: [Lenovo Ideapad 3](https://www.lenovo.com/fr/fr/p/laptops/ideapad/ideapad-300/ideapad-3-15are05/88ips301432)  
   (Ryzen 3 3250U, Radeon Graphics, 12GB RAM [modded], 512GB SSD [modded])
-- Server : asus E402W linux mint xfce light-dm disabled
+- Server : asus E402W linux mint xfce light-dm disabled nginx/cloudlfared
   
 ### **Contact**  
 - Discord: valuman_
